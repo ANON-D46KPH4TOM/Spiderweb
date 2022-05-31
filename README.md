@@ -1,7 +1,15 @@
 # Spiderweb
 
 Small Web Pentest Tool 💉
-
+## <!-- Typing SVG -->
+<p align="center">
+    <a href="https://github.com/">
+        <img
+src="https://readme-typing-svg.herokuapp.com/?size=35&width=800&lines=Spiderweb+by+ANON+D46KPH4TOM"
+            alt="Typing SVG"
+        />
+    </a>
+</p>
 # Tools
 
 ```
