@@ -31,5 +31,5 @@ git clone https://github.com/ANON-D46KPH4TOM/Spiderweb
 
 cd Spiderweb
 
-python spiderweb.py
+python3 Spiderweb.py
 ```
